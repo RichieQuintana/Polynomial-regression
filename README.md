@@ -1,4 +1,4 @@
-**Conclusión Final++
+**Conclusión Final**
 
 Los tres modelos evaluados muestran buen desempeño al ajustar la relación cuadrática del dataset.
 El modelo analítico obtiene el mejor equilibrio entre simplicidad y precisión, logrando un MSE bajo y un R² cercano a 1.
